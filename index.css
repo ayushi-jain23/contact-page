@@ -1,0 +1,193 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body .contact-page .grey-bg{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e7f0cb35836db509cb5d284_contact%20bg.png");
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #e9e9e9;
+    padding-bottom: 0.2%;
+}
+body .contact-page .grey-bg .nav-tab{
+    text-align: right;
+}
+body .contact-page .grey-bg .nav-tab a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #6b6b6b;
+    padding-top: 9px;
+    letter-spacing: 2px;
+    font-family: Arial,sans-serif;
+    padding-left: 23.5px;
+}
+body .contact-page .grey-bg .nav-tab img{
+    width: 78px;
+    padding-right: 45px;
+    vertical-align: -45px;
+    padding-left: 2%;
+}
+body .contact-page .grey-bg .form {
+    background-color: #f22855;
+    padding: 1.6%;
+    width: 25.5%;
+    margin-left: 61.2%;
+    margin-top: 5.5%;
+}
+body .contact-page .grey-bg .form label {
+    color: #333;
+    letter-spacing: 1px;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 3%;
+}
+body .contact-page .grey-bg .form button {
+    background-color: black;
+    color: white;
+    padding: 9px;
+}
+body .contact-page .grey-bg .form .label {
+    padding-bottom: 4.5px
+}
+body .contact-page .grey-bg .form .input{
+    padding-bottom: 10px
+}
+body .contact-page .grey-bg .form input{
+    border: none;
+    width: 388px;
+    height: 39px;
+    padding-left: 12px;
+}
+body .contact-page .grey-bg .form .message{
+    height: 50px;
+}
+body .contact-page .grey-bg .contact-details{
+    margin: -53px 728px 10px 205px;
+}
+body .contact-page .grey-bg .contact-details .drop {
+    color: #f22855;
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 31px;
+    letter-spacing: 1px;
+}
+body .contact-page .grey-bg .contact-details .text{
+    margin-top: 3px;
+    margin-bottom: 35px;
+    font-size: 16px;
+    color: #6b6b6b;
+    line-height: 29px;
+    font-family: 'Work Sans',sans-serif;
+    letter-spacing: 2px;
+}
+body .contact-page .grey-bg .contact-details b {
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 18px;
+}
+body .contact-page .grey-bg .contact-details .info {
+    line-height: 44px;
+    margin-top: 16px;
+    color: #6b6b6b;
+    font-size: 14px;
+    letter-spacing: 0.8px;
+    font-family: 'Work Sans',sans-serif;
+}
+body .contact-page .grey-bg .contact-details .info img{
+    width: 28px;
+    vertical-align: -8px;
+    padding-right: 23px;
+}
+
+
+
+body .contact-page .feedback{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 40px;
+}
+body .contact-page .feedback .reviews img{
+    width: 13%;
+    margin: 55px;
+}
+body .contact-page .feedback .review-text{
+    font-family: 'Work Sans',sans-serif;
+    color: #6b6b6b;
+    font-size: 16px;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 38px;
+}
+body .contact-page .feedback .author{
+    font-family: 'Work Sans',sans-serif;
+    color: #6b6b6b;
+    font-size: 14px;
+    margin-bottom: 175px;
+    text-align: center;
+    line-height: 25px
+}
+body .contact-page .feedback .author img{
+    vertical-align: -5px
+}
+
+
+
+body .contact-page table{
+    margin-left: 10.5%;
+    margin-right: 10.5%;
+}
+body .contact-page table .row1{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 43px;
+    line-height: 48px;
+    width: 25%;
+}
+body .contact-page table .row2 img{
+    width: 96%;
+}
+body .contact-page table .row3{
+    width: 50%;
+}
+body .contact-page table .row3 .title{
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+body .contact-page table .row3 .content p{
+    letter-spacing: .5px;
+    font-family: 'Work Sans',sans-serif;
+    color: #b4b4b4;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+
+body .contact-page .footer-nav{
+    font-family: 'Work Sans',sans-serif;
+    text-align: center;
+    margin-top: 163px;
+}
+body .contact-page .footer-nav .line2{
+    margin-top: 23px;
+}
+body .contact-page .footer-nav a{
+    text-decoration: none;
+    color: #b4b4b4;
+    margin: 15px;
+    font-size: 14px;
+    font-family: 'Work Sans',sans-serif;
+}
+
+
+
+body .contact-page .copyright{
+    text-align: center;
+    color: #b4b4b4;
+    font-family: 'Work Sans',sans-serif;
+    margin-top: 172px;
+    font-size: 10px;
+    margin-bottom: 5px
+}
