@@ -2,13 +2,17 @@ body{
     margin: 0;
     padding: 0;
 }
+
+
+/* div 1 */
 body .contact-page .grey-bg{
     background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e7f0cb35836db509cb5d284_contact%20bg.png");
     width: 100%;
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: #e9e9e9;
-    padding-bottom: 0.2%;
+    padding-bottom: 0.4%;
+    margin-bottom: 5.5%;
 }
 body .contact-page .grey-bg .nav-tab{
     text-align: right;
@@ -17,23 +21,21 @@ body .contact-page .grey-bg .nav-tab a{
     font-size: 12px;
     text-decoration: none;
     color: #6b6b6b;
-    padding-top: 9px;
     letter-spacing: 2px;
     font-family: Arial,sans-serif;
-    padding-left: 23.5px;
+    padding: 2% 0 0 1.6%;
 }
 body .contact-page .grey-bg .nav-tab img{
-    width: 78px;
-    padding-right: 45px;
+    width: 4.9%;
     vertical-align: -45px;
-    padding-left: 2%;
+    padding: 0 3% 0 2%;
 }
 body .contact-page .grey-bg .form {
     background-color: #f22855;
-    padding: 1.6%;
     width: 25.5%;
-    margin-left: 61.2%;
-    margin-top: 5.5%;
+    float: right;
+    margin: 5.5% 10.1% 0 0;
+    padding: 1.6%;
 }
 body .contact-page .grey-bg .form label {
     color: #333;
@@ -64,22 +66,23 @@ body .contact-page .grey-bg .form .message{
     height: 50px;
 }
 body .contact-page .grey-bg .contact-details{
-    margin: -53px 728px 10px 205px;
+    width: 42%;
+    margin: 27.5% 0 0 13%;
 }
 body .contact-page .grey-bg .contact-details .drop {
     color: #f22855;
     font-family: 'Miriam Libre',sans-serif;
     font-size: 31px;
     letter-spacing: 1px;
+    line-height: 127%;
 }
 body .contact-page .grey-bg .contact-details .text{
-    margin-top: 3px;
-    margin-bottom: 35px;
     font-size: 16px;
     color: #6b6b6b;
     line-height: 29px;
     font-family: 'Work Sans',sans-serif;
     letter-spacing: 2px;
+    margin-bottom: 5%;
 }
 body .contact-page .grey-bg .contact-details b {
     font-family: 'Miriam Libre',sans-serif;
@@ -87,55 +90,55 @@ body .contact-page .grey-bg .contact-details b {
 }
 body .contact-page .grey-bg .contact-details .info {
     line-height: 44px;
-    margin-top: 16px;
     color: #6b6b6b;
     font-size: 14px;
     letter-spacing: 0.8px;
     font-family: 'Work Sans',sans-serif;
+    margin-top: 2%;
 }
 body .contact-page .grey-bg .contact-details .info img{
     width: 28px;
     vertical-align: -8px;
-    padding-right: 23px;
+    padding-right: 4%;
 }
 
 
-
+/* div 2 */
 body .contact-page .feedback{
     width: 50%;
-    margin-left: 25%;
+    margin: auto;
+}
+body .contact-page .reviews{
     text-align: center;
-    margin-top: 40px;
 }
 body .contact-page .feedback .reviews img{
-    width: 13%;
-    margin: 55px;
+    width: 14%;
 }
 body .contact-page .feedback .review-text{
     font-family: 'Work Sans',sans-serif;
     color: #6b6b6b;
     font-size: 16px;
-    margin-bottom: 30px;
     text-align: center;
     line-height: 38px;
+    margin: 7% 0 3.5% 0;
 }
 body .contact-page .feedback .author{
     font-family: 'Work Sans',sans-serif;
     color: #6b6b6b;
     font-size: 14px;
-    margin-bottom: 175px;
     text-align: center;
-    line-height: 25px
+    line-height: 25px;
+    margin-bottom: 22.5%;
 }
 body .contact-page .feedback .author img{
-    vertical-align: -5px
+    vertical-align: -5px;
 }
 
 
-
+/* div 3 */
 body .contact-page table{
-    margin-left: 10.5%;
-    margin-right: 10.5%;
+    width: 79%;
+    margin: auto;
 }
 body .contact-page table .row1{
     font-family: 'Miriam Libre',sans-serif;
@@ -164,30 +167,29 @@ body .contact-page table .row3 .content p{
 }
 
 
-
+/* div 4 */
 body .contact-page .footer-nav{
     font-family: 'Work Sans',sans-serif;
     text-align: center;
-    margin-top: 163px;
+    margin: 10% 0 11% 0;
 }
 body .contact-page .footer-nav .line2{
-    margin-top: 23px;
+    margin-top: 1.4%;
 }
 body .contact-page .footer-nav a{
     text-decoration: none;
     color: #b4b4b4;
-    margin: 15px;
     font-size: 14px;
     font-family: 'Work Sans',sans-serif;
+    margin: 1%;
 }
 
 
-
+/* div 5 */
 body .contact-page .copyright{
     text-align: center;
     color: #b4b4b4;
     font-family: 'Work Sans',sans-serif;
-    margin-top: 172px;
     font-size: 10px;
-    margin-bottom: 5px
+    margin-bottom: 5px;
 }
